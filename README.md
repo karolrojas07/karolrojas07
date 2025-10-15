@@ -63,7 +63,6 @@ I consider myself a **hardworking professional and lifelong learner**, highly pr
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/karolrojas07/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
 [Email](mailto:karol.rojasb@gmail.com)
 [LinkedIn](https://linkedin.com/in/karolrojas07/)  
 [WhatsApp](https://wa.me/573155860681?text=Hi%20Karol%2C%20let%27s%20connect!)
