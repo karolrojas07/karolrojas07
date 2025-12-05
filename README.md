@@ -38,13 +38,6 @@ I consider myself a **hardworking professional and lifelong learner**, highly pr
  ### Development 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,postman,visualstudio,vscode,ubuntu,linux,windows&perline=8)](https://skillicons.dev)
 
-## Top Projects
-[![practical multi ai agents and advanced use cases with crewai](https://github-readme-stats.vercel.app/api/pin/?username=karolrojas07&repo=practical-multi-ai-agents-and-advanced-use-cases-with-crewai&theme=dark)](https://github.com/karolrojas07/practical-multi-ai-agents-and-advanced-use-cases-with-crewai)
-
-[![DeepLearning.ai---Multi-AI-Agent-Systems-with-crewAI-course-exercises](https://github-readme-stats.vercel.app/api/pin/?username=karolrojas07&repo=DeepLearning.ai---Multi-AI-Agent-Systems-with-crewAI-course-exercises&theme=dark)](https://github.com/karolrojas07/DeepLearning.ai---Multi-AI-Agent-Systems-with-crewAI-course-exercises)
-
-* [Orquesta M de la buena](https://orquesta-m-de-la-buena.vercel.app/)
-
 
 ## GitHub Stats
 🔭 **Public Repos:** 18
@@ -53,9 +46,6 @@ I consider myself a **hardworking professional and lifelong learner**, highly pr
 
 👤 **Following:** 8 
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karolrojas07&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolrojas07&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Latest Blog Posts
 
