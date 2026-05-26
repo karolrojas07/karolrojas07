@@ -56,3 +56,4 @@ I consider myself a **hardworking professional and lifelong learner**, highly pr
 [Email](mailto:karol.rojasb@gmail.com)
 [LinkedIn](https://linkedin.com/in/karolrojas07/)  
 [WhatsApp](https://wa.me/573155860681?text=Hi%20Karol%2C%20let%27s%20connect!)
+[Portfolio](https://software-portfolio-generator.fly.dev)
