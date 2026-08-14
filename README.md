@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I’m Karol Rojas, a passionate Full-Stack Engineer with 4+ years of experience building scalable Web2, Web3, and AI-powered applications. I love turning complex challenges into into impactful, high-quality solutions—whether it’s designing secure SaaS platforms, integrating payment systems, or developing multi-agent AI systems.
+I’m Karol Rojas, a passionate Full-Stack Engineer with 5+ years of experience building scalable Web2, Web3, and AI-powered applications. I love turning complex challenges into into impactful, high-quality solutions—whether it’s designing secure SaaS platforms, integrating payment systems, or developing multi-agent AI systems.
 
 ## About Me
 
@@ -16,7 +16,9 @@ Almost two years later (~2024), I joined [Salient Process](https://salientproces
 
 On the [Business Compass](https://businesscompass.com/) project, I worked with the **ASP.NET framework, EF Core**, and vanilla **JavaScript** for frontend tasks. I deepened my expertise in **PostgreSQL**, creating stored functions, procedures, triggers, CTEs, views, and complex SQL queries. I also gained experience with **Azure cloud services**, virtual machines, and **IIS**. Additionally, I integrated **Stripe** as a payment gateway, designed the billing strategy for our SaaS product, and even managed the process of hiring a consultant—an enriching experience. I further expanded my knowledge in security by implementing **Keycloak** for **OpenID Connect** and **OAuth 2.0** authentication and authorization.  
 
-More recently, I began contributing to [Spade](https://spade.businesscompass.com/), where I have developed a **multi-agent system** using the **CrewAI framework** integrated with Gemini LLM models. In this project, I’ve also worked with **FastAPI (Python)** and **React (TypeScript)** within a monorepo architecture containing both backend and frontend.  
+More recently, I began contributing to [Spade](https://spade.businesscompass.com/), where I have developed a **multi-agent system** using the **CrewAI framework** integrated with Gemini LLM models. In this project, I’ve also worked with **FastAPI (Python)** and **React (TypeScript)** within a monorepo architecture containing both backend and frontend.
+
+In December 2025, I joined to [Blossom](https://www.blossom.net), a company dedicated to the future of digital banking and core banking solutions for credit unions of all sizes in the United States. I meanly have worked on the Blossom You product. I drive end-to-end delivery of consumer-facing fintech features across payments, card controls, loan servicing, and third-party integrations for Credit Union digital banking. Spans frontend (responsive web), backend (APIs/GraphQL/Cron Jobs/Services/Serverless), integration architecture, and comprehensive test engineering. Working on a distributed system across different repositories, supporting several online pre-production environments.
 
 I consider myself a **hardworking professional and lifelong learner**, highly proficient with **Git** and repository providers like **GitHub**. I respect best practices and development principles, thrive in agile environments, and am fully committed to gathering requirements effectively, estimating accurately, and allocating resources wisely to deliver reliable solutions.  
 
